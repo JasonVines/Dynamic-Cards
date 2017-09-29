@@ -1,0 +1,28 @@
+fieldset {
+	border: none;
+}
+
+div {
+	display: inline-block;
+}
+
+textarea {
+	background-color: lightyellow;
+	border-color: firebrick;
+	border-width: 5px;
+	margin-right: 4px;
+}
+
+#jsInput {
+	display: none;
+}
+
+.unhide {
+	display: inline-block;
+}
+
+button {
+	font-weight: bold;
+	padding: 6px;
+	margin-top: 5px;
+}
